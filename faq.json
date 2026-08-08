@@ -1,0 +1,20 @@
+{
+  "health_faq": [
+    {
+      "question": "What should I do if my symptoms are mild?",
+      "answer": "Monitor your symptoms, follow appropriate general self-care guidance, and seek professional advice if symptoms persist or worsen."
+    },
+    {
+      "question": "Can NexoCare diagnose diseases?",
+      "answer": "No. NexoCare provides general health information and guidance but does not replace professional diagnosis."
+    },
+    {
+      "question": "When should I see a doctor?",
+      "answer": "Consider professional medical advice for persistent, worsening, recurring, or concerning symptoms."
+    },
+    {
+      "question": "Can I use NexoCare for emergencies?",
+      "answer": "NexoCare can highlight warning signs, but emergency symptoms require immediate professional medical attention."
+    }
+  ]
+}
