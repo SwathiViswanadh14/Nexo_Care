@@ -1,0 +1,17 @@
+{
+  "symptom_checker": {
+    "main_symptom": "",
+    "additional_symptoms": [],
+    "severity": "",
+    "duration": "",
+    "frequency": "",
+    "triggers": [],
+    "previous_occurrences": "",
+    "ai_output": {
+      "possible_common_causes": [],
+      "self_care_guidance": [],
+      "warning_signs": [],
+      "recommended_next_step": ""
+    }
+  }
+}
