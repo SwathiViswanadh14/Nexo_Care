@@ -1,0 +1,16 @@
+{
+  "emergency_alert": {
+    "purpose": "Help users recognize potentially serious warning signs.",
+    "warning_signs": [
+      "Severe difficulty breathing",
+      "Loss of consciousness",
+      "Sudden severe chest pain",
+      "Sudden weakness or difficulty speaking",
+      "Severe uncontrolled bleeding",
+      "Seizure",
+      "Severe allergic reaction"
+    ],
+    "action": "If severe or life-threatening symptoms are present, seek emergency medical care immediately.",
+    "note": "NexoCare does not diagnose emergencies. Users should contact local emergency services or a healthcare professional when appropriate."
+  }
+}
