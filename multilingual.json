@@ -1,0 +1,12 @@
+{
+  "supported_languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+  ],
+  "translation_mode": {
+    "input": "User can ask questions in a supported language.",
+    "output": "NexoCare provides clear health information in the selected language.",
+    "principle": "Medical meaning should be preserved while using simple and understandable language."
+  }
+}
