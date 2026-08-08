@@ -1,0 +1,14 @@
+{
+  "user_profile": {
+    "name": "",
+    "age": null,
+    "gender": "",
+    "location": "",
+    "language": "English",
+    "existing_conditions": [],
+    "allergies": [],
+    "current_medications": [],
+    "health_goals": [],
+    "emergency_contact": ""
+  }
+}
