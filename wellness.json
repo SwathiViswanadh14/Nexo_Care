@@ -1,0 +1,30 @@
+{
+  "wellness": {
+    "sleep": {
+      "recommended_habits": [
+        "Maintain a consistent sleep schedule",
+        "Create a relaxing bedtime routine",
+        "Limit excessive screen use before sleeping"
+      ]
+    },
+    "hydration": {
+      "recommended_habits": [
+        "Drink water regularly",
+        "Increase fluids during hot weather or physical activity"
+      ]
+    },
+    "nutrition": {
+      "recommended_habits": [
+        "Eat a balanced diet",
+        "Include fruits and vegetables",
+        "Avoid excessive processed foods"
+      ]
+    },
+    "physical_activity": {
+      "recommended_habits": [
+        "Stay physically active according to your abilities",
+        "Take regular movement breaks"
+      ]
+    }
+  }
+}
