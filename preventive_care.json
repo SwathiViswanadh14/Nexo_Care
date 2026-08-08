@@ -1,0 +1,18 @@
+{
+  "preventive_care": {
+    "checkups": [
+      "Routine health checkups",
+      "Dental checkups",
+      "Eye examinations"
+    ],
+    "vaccination": "Follow age-appropriate vaccination recommendations from qualified healthcare professionals.",
+    "screening": "Discuss appropriate health screenings with a healthcare professional based on age, sex, family history, and risk factors.",
+    "healthy_habits": [
+      "Maintain a balanced diet",
+      "Exercise regularly",
+      "Get adequate sleep",
+      "Avoid tobacco",
+      "Limit unhealthy habits"
+    ]
+  }
+}
