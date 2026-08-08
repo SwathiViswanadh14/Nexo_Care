@@ -1,0 +1,22 @@
+{
+  "next_step": {
+    "assessment_levels": [
+      {
+        "level": "Self-care and monitoring",
+        "description": "For mild concerns without warning signs."
+      },
+      {
+        "level": "Routine medical consultation",
+        "description": "For persistent, recurring, or concerning symptoms."
+      },
+      {
+        "level": "Urgent medical attention",
+        "description": "For symptoms that may indicate a serious health problem."
+      },
+      {
+        "level": "Emergency care",
+        "description": "For severe or potentially life-threatening symptoms."
+      }
+    ]
+  }
+}
