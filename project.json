@@ -1,0 +1,14 @@
+{
+  "project_name": "NexoCare Health",
+  "tagline": "From Health Confusion to the Next Step",
+  "description": "An AI-powered healthcare assistant that helps users understand symptoms, receive general health guidance, recognize warning signs, and identify appropriate next steps.",
+  "purpose": "Make reliable health information simple, accessible, and actionable.",
+  "target_users": [
+    "Students",
+    "Women",
+    "Working professionals",
+    "Families",
+    "People seeking basic health guidance"
+  ],
+  "disclaimer": "NexoCare provides general health information and is not a substitute for professional medical diagnosis or treatment."
+}
