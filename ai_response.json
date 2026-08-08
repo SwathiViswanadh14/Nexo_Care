@@ -1,0 +1,11 @@
+{
+  "response_structure": {
+    "understand": "Explain the user's concern in simple language.",
+    "possible_causes": "Provide general possibilities without diagnosing.",
+    "what_you_can_do": "Give safe, general self-care information when appropriate.",
+    "warning_signs": "Highlight symptoms that require professional attention.",
+    "next_step": "Recommend an appropriate level of care.",
+    "doctor_questions": "Suggest useful questions for a healthcare professional.",
+    "disclaimer": "This information is for general educational purposes and does not replace professional medical advice."
+  }
+}
