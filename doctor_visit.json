@@ -1,0 +1,13 @@
+{
+  "doctor_visit_preparation": {
+    "symptom_summary": "",
+    "symptom_duration": "",
+    "severity": "",
+    "existing_conditions": [],
+    "medications": [],
+    "allergies": [],
+    "questions_for_doctor": [],
+    "important_events": [],
+    "summary": ""
+  }
+}
